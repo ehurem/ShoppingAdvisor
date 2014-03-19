@@ -2,31 +2,31 @@
 ## Eclipse
 #################
 
-*.pydevproject
+#*.pydevproject
 #.project
-.metadata
+#.metadata
 bin/
 tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
+#*.tmp
+#*.bak
+#*.swp
+#*~.nib
+#local.properties
 #.classpath
-.settings/
-.loadpath
+#.settings/
+#.loadpath
 
 # External tool builders
-.externalToolBuilders/
+#.externalToolBuilders/
 
 # Locally stored "Eclipse launch configurations"
-*.launch
+#*.launch
 
 # CDT-specific
-.cproject
+#.cproject
 
 # PDT-specific
-.buildpath
+#.buildpath
 
 
 #################
@@ -125,8 +125,8 @@ DocProject/Help/html
 publish/
 
 # Publish Web Output
-*.Publish.xml
-*.pubxml
+#*.Publish.xml
+#*.pubxml
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
@@ -170,11 +170,11 @@ App_Data/*.ldf
 #############
 
 # Windows image file caches
-Thumbs.db
-ehthumbs.db
+#Thumbs.db
+#ehthumbs.db
 
 # Folder config file
-Desktop.ini
+#Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
